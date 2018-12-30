@@ -2,7 +2,6 @@
 
 belajar cara ssh github
 
-
 # Cara Menggunakan SSH Key untuk koneksi ke Github
 
 Referensi jika ingin googling dengan kata kunci **github ssh key**.
@@ -24,7 +23,7 @@ Cara cek SSH di laptop anda, ketik dibawah ini:
 	
 Apabila muncul kode seperti ini : 
 
-	ssh-rsa AAAAB3Nza..xxxxxxxxxxxxxxxxxxxyyyyyyyyyyyyyyyyyyyyyyyyyyzzzzzzzzzzzzzzzzzzzxxxxxxxxxxxxxxxxxxxxxxxyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzxxxxxxxxxxxxxxxxxxxxxxxxxxyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyzzzzzzzzzzzzz dyo-medio@dyo-mac.local
+ssh-rsa xxxxxxxxxxxxxxxxxxxxxxyyyyyyyyyyyyyyyyyyyyyyyyyyzzzzzzzzzzzzzzzzzzzxxxxxxxxxxxxxxxxxxxxxxxyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzxxxxxxxxxxxxxxxxxxxxxxxxxxyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyzzzzzzzzzzzzz email@email.com
 	
 xyz adalah key yang saya samarkan :)
 
